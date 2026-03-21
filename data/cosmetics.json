@@ -28149,9 +28149,10 @@
         "id": "clingingCurse",
         "type": "aura",
         "effect": "bossKillReactive",
+        "worldEvent": "theDrowningPlague",
         "obtainable": "laPestesLockerMythic",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-12-28"
+        "lastUpdated": "2026-03-21"
     },
     "sirensCrest": {
         "id": "sirensCrest",
