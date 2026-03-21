@@ -15947,8 +15947,8 @@
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
-    "celestialBoom": {
-        "id": "celestialBoom",
+    "celestialBloom": {
+        "id": "celestialBloom",
         "type": "rocket",
         "rarity": "epic",
         "season": "eyeOfTheBeast",
@@ -15968,7 +15968,7 @@
             "repair"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-21"
     },
     "woundcaller": {
         "id": "woundcaller",
