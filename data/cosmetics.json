@@ -20753,10 +20753,11 @@
     "mournfulShades": {
         "id": "mournfulShades",
         "type": "aura",
+        "effect": "bossKillReactive",
         "worldEvent": "theGreatShadow",
         "obtainable": "redeemerAchievementReward",
         "dateAdded": "2024-12-12",
-        "lastUpdated": "2024-12-12"
+        "lastUpdated": "2026-03-21"
     },
     "sweepingSea": {
         "id": "sweepingSea",
