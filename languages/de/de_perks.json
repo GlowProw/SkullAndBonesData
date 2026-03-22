@@ -3107,15 +3107,6 @@
                 ]
             }
         },
-        "celestialBoom": {
-            "name": "Rettende Salve",
-            "description": {
-                "general": [
-                    "Aufeinanderfolgende Treffer reparieren 5% für jedes Geschoss",
-                    "Wenn du dasselbe Ziel mehrmals hintereinander triffst, wird auch Deckungsstärke um 2% pro Treffer wiederhergestellt"
-                ]
-            }
-        },
         "chargedBarb": {
             "name": "Aufgeladener Widerhaken",
             "description": {
@@ -3138,6 +3129,15 @@
                     "Treffer haben eine Chance von 15%, beim Ziel Verspottet auszulösen. Ziele, die schon Verspottet sind, werden mit Unglücklicher Spott belegt",
                     "Unglücklicher Spott verursacht 250 Schaden pro Sekunde und kann bis zu 5 Mal gestapelt werden",
                     "Scharfgemacht Bonus: Treffer haben eine Chance von 50%, Verspottet auszulösen"
+                ]
+            }
+        },
+        "savingSalvo": {
+            "name": "Rettende Salve",
+            "description": {
+                "general": [
+                    "Aufeinanderfolgende Treffer reparieren 5% für jedes Geschoss",
+                    "Wenn du dasselbe Ziel mehrmals hintereinander triffst, wird auch Deckungsstärke um 2% pro Treffer wiederhergestellt"
                 ]
             }
         }

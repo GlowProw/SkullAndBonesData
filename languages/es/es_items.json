@@ -2229,7 +2229,7 @@
             }
         },
         "vikramsStash": {
-            "name": "Vikram's Stash",
+            "name": "El Alijo de Vikram",
             "description": {
                 "general": "A chest from Vikram's ship. Contains a moderate assortment of loot."
             }
@@ -2343,32 +2343,32 @@
             }
         },
         "frigateUpgrade": {
-            "name": "Frigate Upgrade",
+            "name": "Mejoras Fragata",
             "description": {
-                "general": "Ship upgrade for the Frigate.",
-                "1": "Upgrades the ship level from 0 to 1.",
-                "2": "Upgrades the ship level from 1 to 2.",
-                "3": "Upgrades the ship level from 2 to 3.",
-                "4": "Upgrades the ship level from 3 to 4.",
-                "5": "Upgrades the ship level from 4 to 5.",
-                "6": "Upgrades the ship level from 5 to 6.",
-                "7": "Upgrades the ship level from 6 to 7."
+                "general": "Mejora del barco para la fragata.",
+                "1": "Mejora el nivel del barco de 0 a 1.",
+                "2": "Mejora el nivel del barco de 1 a 2.",
+                "3": "Mejora el nivel del barco de 2 a 3.",
+                "4": "Mejora el nivel del barco de 3 a 4.",
+                "5": "Mejora el nivel del barco de 4 a 5.",
+                "6": "Mejora el nivel del barco de 5 a 6.",
+                "7": "Mejora el nivel del barco de 6 a 7."
             }
         },
         "thunderDragonCannon": {
-            "name": "Thunder Dragon Cannon",
+            "name": "Cañón del dragón del trueno",
             "description": {
                 "general": "Summons lightning strikes while ripping sails to shreds, its muzzle roars with the might of seven thunders."
             }
         },
         "ashbreaker": {
-            "name": "Ashbreaker",
+            "name": "Partecenizas",
             "description": {
                 "general": "Blessed by the priests of Fara, this bombard causes Burning damage to increase the build-up rate of the Vulnerable status effect. Wielded by agressive captains to unleash a deadly combination of flame and Crew Attacks."
             }
         },
         "hellgateSerpent": {
-            "name": "Hellgate Serpent",
+            "name": "Serpiente cancerbera",
             "description": {
                 "general": "Dark spirits are called upon each torpedo, dealing Burning damage while mending your own ship. The further the accursed torpedoes travel, the more Hull Health is restored."
             }
@@ -3056,8 +3056,8 @@
                 "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
             }
         },
-        "celestialBoom": {
-            "name": "Celestial Boom",
+        "celestialBloom": {
+            "name": "Celestial Bloom",
             "description": {
                 "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
             }
