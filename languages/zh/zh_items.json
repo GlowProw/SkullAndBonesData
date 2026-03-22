@@ -3056,8 +3056,8 @@
                 "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
             }
         },
-        "celestialBoom": {
-            "name": "Celestial Boom",
+        "celestialBloom": {
+            "name": "Celestial Bloom",
             "description": {
                 "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
             }

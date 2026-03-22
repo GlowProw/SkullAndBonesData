@@ -21397,105 +21397,105 @@
             }
         },
         "brineAndBone": {
-            "name": "Brine and Bone",
+            "name": "Salzwasser und Knochen",
             "description": {
-                "general": "Stiffened by brine, edges crusted with mirror-dust"
+                "general": "Durch Salzwasser verhärtet, mit Spiegelstaub verkrustete Kanten."
             }
         },
         "saltyVisions": {
-            "name": "Salty Visions",
+            "name": "Salzige Visionen",
             "description": {
-                "general": "Forged from cursed silver"
+                "general": "Aus verfluchtem Silber geschmiedet."
             }
         },
         "candleBehindGlass": {
-            "name": "Candle Behind Glass",
+            "name": "Kerze hinter Glas",
             "description": {
-                "general": "A pale flame. A memory of midnight."
+                "general": "Eine blasse Flamme. Eine Erinnerung an Mitternacht."
             }
         },
         "theGildedRemnant": {
-            "name": "The Gilded Remnant",
+            "name": "Der goldene Überrest",
             "description": {
-                "general": "Silver leaf and indigo leather, lacquered by the abyss"
+                "general": "Blattsilber und indigoblaues Leder, lackiert vom Abgrund."
             }
         },
         "promiseUnkept": {
-            "name": "Promise Unkept",
+            "name": "Nicht gehaltenes Versprechen",
             "description": {
-                "general": "Weathered lace and tear-streaked satin"
+                "general": "Verwitterte Spitze und tränenverschmiertes Satin."
             }
         },
         "claspOfAnOath": {
-            "name": "Clasp of An Oath",
+            "name": "Schnalle eines Eides",
             "description": {
-                "general": "Silvered leather, cracked and shining. Grips like a promise."
+                "general": "Versilbertes Leder, rissig und glänzend. Hält fest wie ein Versprechen."
             }
         },
         "deathsHeadHand": {
-            "name": "Death's Head",
+            "name": "Totenkopf",
             "description": {
-                "general": "A ring of tarnished silver, fuses to the wearer's finger"
+                "general": "Ein Ring aus angelaufenem Silber, der mit dem Finger des Trägers verschmilzt."
             }
         },
         "drownedLedgers": {
-            "name": "Drowned Ledgers",
+            "name": "Versunkene Geschäftsbücher",
             "description": {
-                "general": "Pockets of silt, candle-fat, and old accounts"
+                "general": "Taschen voller Schlick, Kerzenfett und alten Abrechnungen."
             }
         },
         "theProfamedCourt": {
-            "name": "The Profaned Court",
+            "name": "Der entweihte Hof",
             "description": {
-                "general": "Polished black, cracked like a parched seabed"
+                "general": "Poliertes Schwarz, rissig wie ausgetrockneter Meeresboden."
             }
         },
         "lordsDefiance": {
-            "name": "Lord's Defiance",
+            "name": "Trotz des Herrn",
             "description": {
-                "general": "Feathers for the court, steel for the storm."
+                "general": "Federn für den Hof, Stahl für den Sturm."
             }
         },
         "duellistsMark": {
-            "name": "Duellist's Mark",
+            "name": "Duellantenzeichen",
             "description": {
-                "general": "\"He struck first. I struck last.\""
+                "general": "\"Er schlug zuerst zu. Ich zuletzt.\""
             }
         },
         "theCorsairsVesture": {
-            "name": "The Corsair's Vesture",
+            "name": "Das Gewand des Korsaren",
             "description": {
-                "general": "A gentleman doesn't dress down for mutiny"
+                "general": "Ein Gentleman kleidet sich für eine Meuterei nicht weniger elegant."
             }
         },
         "challengersTotem": {
-            "name": "Challenger's Totem",
+            "name": "Totem des Herausforderers",
             "description": {
-                "general": "\"My family's mark, and proof I survived them.\""
+                "general": "\"Das Zeichen meiner Familie und der Beweis, dass ich sie überlebt habe.\""
             }
         },
         "gentlemansGrip": {
-            "name": "Gentleman's Grip",
+            "name": "Im Griff des Gentlemans",
             "description": {
-                "general": "\"A steady hand for brandy or blade.\""
+                "general": "\"Eine ruhige Hand für Korn oder Klinge.\""
             }
         },
         "duelingSash": {
-            "name": "Dueling Sash",
+            "name": "Duellschärpe",
             "description": {
-                "general": "\"A nobleman's belt once. Now it holds grudges.\""
+                "general": "\"Einst der Gürtel eines Adligen. Jetzt hegt er Groll.\""
             }
         },
         "roguesBreeches": {
-            "name": "Rogue's Breeches",
+            "name": "Hose des Abtrünnigen",
             "description": {
-                "general": "\"Tailored in London. Torn in Nassau. Fitted for the future.\""
+                "general": "\"In London geschneidert. In Nassau zerrissen. Auf die Zukunft zugeschnitten.\""
             }
         },
         "gallantSteps": {
-            "name": "Gallant Steps",
+            "name": "Galante Schritte",
             "description": {
-                "general": "Some habits die harder than kings"
+                "general": "Manche Gewohnheiten sind zäher als Könige."
             }
         },
         "nightBark": {

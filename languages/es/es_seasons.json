@@ -1,13 +1,13 @@
 {
     "seasons": {
-        "release": "0 - Publicación",
-        "ragingTides": "1 - Las mareas embravecidas",
-        "chorusOfHavoc": "2 - Obertura del Caos",
-        "intoTheDragonsWake": "3 - En el despertar del dragón",
-        "shadowsOfTheDeep": "4 - Sombras de las profundidades",
+        "release": "Y1S0 - Publicación",
+        "ragingTides": "Y1S1 - Las mareas embravecidas",
+        "chorusOfHavoc": "Y1S2 - Obertura del Caos",
+        "intoTheDragonsWake": "Y1S3 - En el despertar del dragón",
+        "shadowsOfTheDeep": "Y1S4 - Sombras de las profundidades",
         "ascentIntoChaos": "Y2S1 - Escalada del Caos",
         "oathsOfWar": "Y2S2 - Juramentos de guerra",
-        "gutsAndGlory": "Y2S3 - Guts and Glory",
-        "eyeOfTheBeast": "Y2S4 - Eye of the Beast"
+        "gutsAndGlory": "Y2S3 - Agallas y gloria",
+        "eyeOfTheBeast": "Y2S4 - Ojo de la Bestia"
     }
 }
