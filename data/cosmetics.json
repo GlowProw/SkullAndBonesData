@@ -31347,5 +31347,15 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "hulongHavoc": {
+        "id": "hulongHavoc",
+        "type": "demicannonWeaponSkin",
+        "effect": "emissive",
+        "season": "eyeOfTheBeast",
+        "event": "legendOfTheNian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }

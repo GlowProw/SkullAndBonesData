@@ -21593,6 +21593,12 @@
             "description": {
                 "general": "Dragon mist and lightning"
             }
+        },
+        "hulongHavoc": {
+            "name": "Hulong Havoc",
+            "description": {
+                "general": "\"Let dragonfire burn the lot of them!\""
+            }
         }
     }
 }
