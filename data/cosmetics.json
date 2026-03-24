@@ -31397,7 +31397,7 @@
     "gatorsHide": {
         "id": "gatorsHide",
         "type": "hull",
-        "set": "",
+        "set": "crocodillo",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
@@ -31407,7 +31407,7 @@
     "deathRoll": {
         "id": "deathRoll",
         "type": "sailsPattern",
-        "set": "",
+        "set": "crocodillo",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
@@ -31418,7 +31418,7 @@
         "id": "crimsonSplash",
         "type": "sailsColor",
         "effect": "emissive",
-        "set": "",
+        "set": "crocodillo",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
@@ -31428,7 +31428,7 @@
     "mawUnleashed": {
         "id": "mawUnleashed",
         "type": "sailsEmblem",
-        "set": "",
+        "set": "crocodillo",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
