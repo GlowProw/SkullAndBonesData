@@ -31375,5 +31375,23 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "shackleSnap": {
+        "id": "shackleSnap",
+        "type": "firework",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "guzzletooth": {
+        "id": "guzzletooth",
+        "type": "bombardWeaponSkin",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }

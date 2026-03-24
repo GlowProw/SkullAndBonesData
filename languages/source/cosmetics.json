@@ -21611,6 +21611,18 @@
             "description": {
                 "general": "Stuns ship rats to death with her cuteness"
             }
+        },
+        "shackleSnap": {
+            "name": "Shackle Snap",
+            "description": {
+                "general": "One bite is enough to take them all out"
+            }
+        },
+        "guzzletooth": {
+            "name": "Guzzletooth",
+            "description": {
+                "general": "Spew the seas with fire and ash"
+            }
         }
     }
 }
