@@ -31357,5 +31357,23 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "dracoNian": {
+        "id": "dracoNian",
+        "type": "firework",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "shen": {
+        "id": "shen",
+        "type": "pet",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }

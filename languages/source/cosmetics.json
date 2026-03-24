@@ -21599,6 +21599,18 @@
             "description": {
                 "general": "\"Let dragonfire burn the lot of them!\""
             }
+        },
+        "dracoNian": {
+            "name": "Draco Nian",
+            "description": {
+                "general": "A declaration of fiery fury"
+            }
+        },
+        "shen": {
+            "name": "Shen",
+            "description": {
+                "general": "Stuns ship rats to death with her cuteness"
+            }
         }
     }
 }
