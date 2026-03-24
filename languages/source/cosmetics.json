@@ -21587,6 +21587,12 @@
             "description": {
                 "general": "Screams defiance, carved in warsteel"
             }
+        },
+        "firemist": {
+            "name": "Firemist",
+            "description": {
+                "general": "Dragon mist and lightning"
+            }
         }
     }
 }

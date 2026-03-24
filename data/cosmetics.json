@@ -31329,5 +31329,15 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "firemist": {
+        "id": "firemist",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "season": "eyeOfTheBeast",
+        "event": "legendOfTheNian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }
