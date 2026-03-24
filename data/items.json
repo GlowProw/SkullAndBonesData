@@ -15910,7 +15910,7 @@
         "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
         "value": 1,
         "weight": 500,
-        "gearScore": 65,
+        "gearScore": 83,
         "projectilesPerShot": 1,
         "damagePerShot": 1287,
         "rateOfFire": 150,
@@ -15922,7 +15922,7 @@
             "combustion1"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-24"
     },
     "reachwarden": {
         "id": "reachwarden",
