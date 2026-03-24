@@ -31393,5 +31393,46 @@
         "obtainable": "premiumEventPass",
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "gatorsHide": {
+        "id": "gatorsHide",
+        "type": "hull",
+        "set": "",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "deathRoll": {
+        "id": "deathRoll",
+        "type": "sailsPattern",
+        "set": "",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "crimsonSplash": {
+        "id": "crimsonSplash",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "mawUnleashed": {
+        "id": "mawUnleashed",
+        "type": "sailsEmblem",
+        "set": "",
+        "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }

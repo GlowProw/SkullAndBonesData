@@ -21623,6 +21623,30 @@
             "description": {
                 "general": "Spew the seas with fire and ash"
             }
+        },
+        "gatorsHide": {
+            "name": "Gator's Hide",
+            "description": {
+                "general": "Scars of a beast that survives the hunt"
+            }
+        },
+        "deathRoll": {
+            "name": "Death Roll",
+            "description": {
+                "general": "Once caught, your prey shall never surface"
+            }
+        },
+        "crimsonSplash": {
+            "name": "Crimson Splash",
+            "description": {
+                "general": "Rage unfurls, warning foes of your bite"
+            }
+        },
+        "mawUnleashed": {
+            "name": "Maw Unleashed",
+            "description": {
+                "general": "Strike first, rend deep, never let go"
+            }
         }
     }
 }
