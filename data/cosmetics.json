@@ -31247,5 +31247,87 @@
         "obtainable": [["twitchDrop","twitchDropRubyNXT"]],
         "dateAdded": "2026-03-10",
         "lastUpdated": "2026-03-12"
+    },
+    "broodfang": {
+        "id": "broodfang",
+        "type": "sailsEmblem",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "scalemark": {
+        "id": "scalemark",
+        "type": "sailsPattern",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "bladelitBrood": {
+        "id": "bladelitBrood",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "spitefulDrake": {
+        "id": "spitefulDrake",
+        "type": "figureHead",
+        "set": "greaterNian",
+        "upgrades": ["wyrmReckoner","broodSovereign"],
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "wyrmReckoner": {
+        "id": "wyrmReckoner",
+        "type": "figureHead",
+        "tier": 1,
+        "effect": "emissive",
+        "basic": "spitefulDrake",
+        "upgrades": ["broodSovereign"],
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "broodSovereign": {
+        "id": "broodSovereign",
+        "type": "figureHead",
+        "tier": 2,
+        "effect": ["emissive","combatReactive"],
+        "basic": "spitefulDrake",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "ashvenom": {
+        "id": "ashvenom",
+        "type": "hull",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
+    },
+    "dragonwind": {
+        "id": "dragonwind",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "greaterNian",
+        "event": "legendOfTheNian",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-03-24",
+        "lastUpdated": "2026-03-24"
     }
 }

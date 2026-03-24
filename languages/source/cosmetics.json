@@ -21539,6 +21539,54 @@
             "description": {
                 "general": "A song as sharp as swords; sweet as stolen rum"
             }
+        },
+        "broodfang": {
+            "name": "Broodfang",
+            "description": {
+                "general": "Born in flame, sharpened by betrayal"
+            }
+        },
+        "scalemark": {
+            "name": "Scalemark",
+            "description": {
+                "general": "Etched in blood, woven like warning"
+            }
+        },
+        "bladelitBrood": {
+            "name": "Bladelit Brood",
+            "description": {
+                "general": "Bronze-blooded, hammered in dragonfire"
+            }
+        },
+        "spitefulDrake": {
+            "name": "Spiteful Drake",
+            "description": {
+                "general": "Snarls at the wind, thirsts for conquest"
+            }
+        },
+        "wyrmReckoner": {
+            "name": "Wyrm Reckoner",
+            "description": {
+                "general": "Twin heads, bound to no master"
+            }
+        },
+        "broodSovereign": {
+            "name": "Brood Sovereign",
+            "description": {
+                "general": "Three-headed flight, flame, fury"
+            }
+        },
+        "ashvenom": {
+            "name": "Ashvenom",
+            "description": {
+                "general": "Charred steel, slick with spite"
+            }
+        },
+        "dragonwind": {
+            "name": "Dragonwind",
+            "description": {
+                "general": "Screams defiance, carved in warsteel"
+            }
         }
     }
 }
