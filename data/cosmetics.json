@@ -31253,6 +31253,7 @@
         "type": "sailsEmblem",
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31262,6 +31263,7 @@
         "type": "sailsPattern",
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31272,6 +31274,7 @@
         "effect": "emissive",
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31282,6 +31285,7 @@
         "set": "greaterNian",
         "upgrades": ["wyrmReckoner","broodSovereign"],
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31295,6 +31299,7 @@
         "upgrades": ["broodSovereign"],
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31307,6 +31312,7 @@
         "basic": "spitefulDrake",
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31316,6 +31322,7 @@
         "type": "hull",
         "set": "greaterNian",
         "event": "legendOfTheNian",
+        "season": "eyeOfTheBeast",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
@@ -31325,6 +31332,7 @@
         "type": "nameplate",
         "effect": "emissive",
         "set": "greaterNian",
+        "season": "eyeOfTheBeast",
         "event": "legendOfTheNian",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-03-24",
