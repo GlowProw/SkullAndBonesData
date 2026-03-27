@@ -26724,8 +26724,9 @@
         "id": "linesInTheSky",
         "type": "sailsPattern",
         "set": "theAnchorborn",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2025-10-22",
-        "lastUpdated": "2026-03-06"
+        "lastUpdated": "2026-03-27"
     },
     "lifesVoyage": {
         "id": "lifesVoyage",
