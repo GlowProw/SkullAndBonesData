@@ -21647,6 +21647,30 @@
             "description": {
                 "general": "Strike first, rend deep, never let go"
             }
+        },
+        "snarlweave": {
+            "name": "Snarlweave",
+            "description": {
+                "general": "Tangled designs for sails that scream"
+            }
+        },
+        "frenziedFrown": {
+            "name": "Frenzied Frown",
+            "description": {
+                "general": "The color of madness itself"
+            }
+        },
+        "gunmetalGrin": {
+            "name": "Gunmetal Grin",
+            "description": {
+                "general": "A sheen that dares foes to shoot first"
+            }
+        },
+        "screechOfMayhem": {
+            "name": "Screech of Mayhem",
+            "description": {
+                "general": "Teeth bared, barrels lit"
+            }
         }
     }
 }

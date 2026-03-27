@@ -1666,5 +1666,9 @@
     "crocodillo": {
         "id": "crocodillo",
         "type": "ship"
+    },
+    "chimpCrazy": {
+        "id": "chimpCrazy",
+        "type": "ship"
     }
 }

@@ -31435,5 +31435,38 @@
         "obtainable": "eventPass",
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "snarlweave": {
+        "id": "snarlweave",
+        "type": "sailsPattern",
+        "set": "chimpCrazy",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2026-03-27",
+        "lastUpdated": "2026-03-27"
+    },
+    "frenziedFrown": {
+        "id": "frenziedFrown",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "chimpCrazy",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2026-03-27",
+        "lastUpdated": "2026-03-27"
+    },
+    "gunmetalGrin": {
+        "id": "gunmetalGrin",
+        "type": "hull",
+        "set": "chimpCrazy",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2026-03-27",
+        "lastUpdated": "2026-03-27"
+    },
+    "screechOfMayhem": {
+        "id": "screechOfMayhem",
+        "type": "sailsEmblem",
+        "set": "chimpCrazy",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2026-03-27",
+        "lastUpdated": "2026-03-27"
     }
 }
