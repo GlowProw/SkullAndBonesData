@@ -30581,10 +30581,10 @@
         "type": "sailsEmblem",
         "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory1",
+        "obtainable": "retributionWarRewardWonTerritory1",
         "faction": "compagnieRoyale",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "cobaltCorsair": {
         "id": "cobaltCorsair",
@@ -30592,40 +30592,40 @@
         "set": "badAndBaroque",
         "effect": "emissive",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory4",
+        "obtainable": "retributionWarRewardWonTerritory4",
         "faction": "compagnieRoyale",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "crownmetal": {
         "id": "crownmetal",
         "type": "hull",
         "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory7",
+        "obtainable": "retributionWarRewardWonTerritory7",
         "faction": "compagnieRoyale",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "nobleflame": {
         "id": "nobleflame",
         "type": "sailsPattern",
         "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory11",
+        "obtainable": "retributionWarRewardWonTerritory11",
         "faction": "compagnieRoyale",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "lionsRoar": {
         "id": "lionsRoar",
         "type": "sailsEmblem",
         "set": "",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory1",
+        "obtainable": "retributionWarRewardWonTerritory1",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "flameWind": {
         "id": "flameWind",
@@ -30633,30 +30633,30 @@
         "set": "",
         "effect": "emissive",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory4",
+        "obtainable": "retributionWarRewardWonTerritory4",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "zwartGoud": {
         "id": "zwartGoud",
         "type": "hull",
         "set": "",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory7",
+        "obtainable": "retributionWarRewardWonTerritory7",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "helmBanier": {
         "id": "helmBanier",
         "type": "sailsPattern",
         "set": "",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarRewardWonTerritory11",
+        "obtainable": "retributionWarRewardWonTerritory11",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "brassbound": {
         "id": "brassbound",

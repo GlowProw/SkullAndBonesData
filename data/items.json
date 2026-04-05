@@ -15827,12 +15827,12 @@
         "weight": 80,
         "gearScore": 25,
         "required": {},
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "retributionWarEffortReward",
         "perks": [
             "anatomyCabinet"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "blubberWorks": {
         "id": "blubberWorks",
@@ -15857,12 +15857,12 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "retributionWarEffortReward",
         "perks": [
             "drowningCabinet"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "ballistaMountSmithy": {
         "id": "ballistaMountSmithy",
@@ -15929,7 +15929,7 @@
         "type": "longGun",
         "rarity": "epic",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "retributionWarEffortReward",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15945,14 +15945,14 @@
             "repair"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-06"
     },
     "celestialBloom": {
         "id": "celestialBloom",
         "type": "rocket",
         "rarity": "epic",
         "season": "eyeOfTheBeast",
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "retributionWarEffortReward",
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -15968,7 +15968,7 @@
             "repair"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-03-21"
+        "lastUpdated": "2026-04-06"
     },
     "woundcaller": {
         "id": "woundcaller",
