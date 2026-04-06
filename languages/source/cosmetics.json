@@ -21713,6 +21713,60 @@
             "description": {
                 "general": "A real mood lightener for your deck"
             }
+        },
+        "blackenedOaths": {
+            "name": "Blackened Oaths",
+            "description": {
+                "general": "Feathers of a magic raven. The brim weeps salt."
+            }
+        },
+        "grimReflection": {
+            "name": "Grim Reflection",
+            "description": {
+                "general": "The eyes behind burned away long ago"
+            }
+        },
+        "soulsight": {
+            "name": "Soulsight",
+            "description": {
+                "general": "Vivid visions of this world and the next"
+            }
+        },
+        "gallowsGrace": {
+            "name": "Gallow's Grace",
+            "description": {
+                "general": "Too fine for the grave, too cursed for the living"
+            }
+        },
+        "lacedLament": {
+            "name": "Laced Lament",
+            "description": {
+                "general": "Flutters when a soul passes near"
+            }
+        },
+        "gravediggersGrip": {
+            "name": "Gravedigger's Grip",
+            "description": {
+                "general": "Iron and ash, jointed like sorrow"
+            }
+        },
+        "littleMercies": {
+            "name": "Little Mercies",
+            "description": {
+                "general": "Buckled thrice, for each promise broken"
+            }
+        },
+        "deadkinsPride": {
+            "name": "Deadkin's Pride",
+            "description": {
+                "general": "Dark cloth, sewn with mourning thread"
+            }
+        },
+        "echoNoir": {
+            "name": "Echo Noir",
+            "description": {
+                "general": "Silent steps on forgotten shores"
+            }
         }
     }
 }

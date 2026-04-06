@@ -1674,5 +1674,9 @@
     "deathsGlow": {
         "id": "deathsGlow",
         "type": "ship"
+    },
+    "deathlyWishes": {
+        "id": "deathlyWishes",
+        "type": "player"
     }
 }

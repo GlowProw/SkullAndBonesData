@@ -31528,5 +31528,80 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-03-31",
         "lastUpdated": "2026-03-31"
+    },
+    "blackenedOaths": {
+        "id": "blackenedOaths",
+        "type": "headwear",
+        "set": "deathlyWishes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "grimReflection": {
+        "id": "grimReflection",
+        "type": "faceAccessory",
+        "set": "deathlyWishes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "soulsight": {
+        "id": "soulsight",
+        "type": "eyeColor",
+        "set": "deathlyWishes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "gallowsGrace": {
+        "id": "gallowsGrace",
+        "type": "torso",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "lacedLament": {
+        "id": "lacedLament",
+        "type": "neck",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "gravediggersGrip": {
+        "id": "gravediggersGrip",
+        "type": "forearm",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "littleMercies": {
+        "id": "littleMercies",
+        "type": "waist",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "deadkinsPride": {
+        "id": "deadkinsPride",
+        "type": "bottom",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "echoNoir": {
+        "id": "echoNoir",
+        "type": "footwear",
+        "set": "deathlyWishes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     }
 }
