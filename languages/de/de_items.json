@@ -3103,6 +3103,12 @@
             "description": {
                 "general": "Stammt von einem schwer fassbaren und unerreicht wilden Raubtier."
             }
+        },
+        "crazedNianStrongbox": {
+            "name": "Crazed Nian Strongbox",
+            "description": {
+                "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+            }
         }
     }
 }

@@ -20667,7 +20667,7 @@
         "whatDwellsBeneath": {
             "name": "Was im Untergrund lauert",
             "description": {
-                "general": "Zeichen, die euch in die Tiefe begleiten."
+                "general": "Beige and grey to keep the beasties away"
             }
         },
         "anAncientsCall": {
@@ -20695,7 +20695,7 @@
             }
         },
         "murkyWaters": {
-            "name": "Murky Waters",
+            "name": "Schlammige Gewässer",
             "description": {
                 "general": "Die Farbe von reinem Krakenschleim"
             }
@@ -21538,6 +21538,234 @@
             "name": "Rubin der Riffe",
             "description": {
                 "general": "Ein Lied, scharf wie Schwerter; süß wie gestohlener Rum."
+            }
+        },
+        "broodfang": {
+            "name": "Reißzahn der Brut",
+            "description": {
+                "general": "In Flammen geboren, durch Verrat gestählt."
+            }
+        },
+        "scalemark": {
+            "name": "Schuppenmarkierung",
+            "description": {
+                "general": "Mit Blut gezeichnet, gewebt wie eine Warnung."
+            }
+        },
+        "bladelitBrood": {
+            "name": "Klingen der Brut",
+            "description": {
+                "general": "Bronzeblutig, im Drachenfeuer geschmiedet."
+            }
+        },
+        "spitefulDrake": {
+            "name": "Bösartiger Drache",
+            "description": {
+                "general": "Knurrt den Wind an, sehnt sich nach Eroberung."
+            }
+        },
+        "wyrmReckoner": {
+            "name": "Abrechnung des Lindwurms",
+            "description": {
+                "general": "Zwillingsköpfe, die keinen Meister kennen."
+            }
+        },
+        "broodSovereign": {
+            "name": "Souverän der Brut",
+            "description": {
+                "general": "Drei Köpfe: Flug, Flamme und Furie."
+            }
+        },
+        "ashvenom": {
+            "name": "Aschengift",
+            "description": {
+                "general": "Verkohlter Stahl, überzogen mit Boshaftigkeit."
+            }
+        },
+        "dragonwind": {
+            "name": "Drachenwind",
+            "description": {
+                "general": "Schreit trotzig, in Kriegsstahl eingraviert."
+            }
+        },
+        "firemist": {
+            "name": "Feuernebel",
+            "description": {
+                "general": "Drachennebel und Blitzgewitter."
+            }
+        },
+        "hulongHavoc": {
+            "name": "Totale Verwüstung",
+            "description": {
+                "general": "\"Möge das Drachenfeuer sie alle verbrennen!\""
+            }
+        },
+        "dracoNian": {
+            "name": "Drakonisches Nian",
+            "description": {
+                "general": "Eine Erklärung feuriger Wut."
+            }
+        },
+        "shen": {
+            "name": "Shen",
+            "description": {
+                "general": "Betäubt Schiffsratten mit ihrer Niedlichkeit."
+            }
+        },
+        "shackleSnap": {
+            "name": "Kettenknacken",
+            "description": {
+                "general": "Ein Biss reicht, um sie alle auszuschalten."
+            }
+        },
+        "guzzletooth": {
+            "name": "Saufzahn",
+            "description": {
+                "general": "Spuckt Feuer und Asche über die Meere."
+            }
+        },
+        "gatorsHide": {
+            "name": "Krokodilhaut",
+            "description": {
+                "general": "Narben von einem Tier, dass die Jagd überlebt hat."
+            }
+        },
+        "deathRoll": {
+            "name": "Todesrolle",
+            "description": {
+                "general": "Wenn Ihr Eure Beute erst mal gefangen habt, kommt sie nie wieder an die Oberfläche."
+            }
+        },
+        "crimsonSplash": {
+            "name": "Blutrote Spritzer",
+            "description": {
+                "general": "Die Wut entfaltet sich und warnt Eure Gegner vor Eurem Biss."
+            }
+        },
+        "mawUnleashed": {
+            "name": "Entfesselter Schlund",
+            "description": {
+                "general": "Zuerst schlagen, tief reinbeißen und niemals loslassen."
+            }
+        },
+        "snarlweave": {
+            "name": "Knurrendes Gewirr",
+            "description": {
+                "general": "Wuseliges Muster für kreischende Segel."
+            }
+        },
+        "frenziedFrown": {
+            "name": "Wahnsinnige Grimasse",
+            "description": {
+                "general": "Die Farbe des Wahnsinns."
+            }
+        },
+        "gunmetalGrin": {
+            "name": "Metallisches Grinsen",
+            "description": {
+                "general": "Ein Glanz, der Gegner dazu herausfodert, zuerst zu schießen."
+            }
+        },
+        "screechOfMayhem": {
+            "name": "Chaotisches Kreischen",
+            "description": {
+                "general": "Zähne entblößt, Lunten angezündet."
+            }
+        },
+        "theReapersCall": {
+            "name": "Der Ruf des Schnitters",
+            "description": {
+                "general": "Möge der Schleier des Todes sich weit und breit ausbreiten."
+            }
+        },
+        "scythesHonour": {
+            "name": "Ehre der Sense",
+            "description": {
+                "general": "Scharfe Kanten und schärfere Klingen"
+            }
+        },
+        "darkestWeave": {
+            "name": "Dunkelstes Geflecht",
+            "description": {
+                "general": "Ein paar grimme Farben."
+            }
+        },
+        "helenaFromHell": {
+            "name": "Helena aus der Hölle",
+            "description": {
+                "general": "\"Todschick\" hat noch nie so gut ausgesehen."
+            }
+        },
+        "graveyardGloss": {
+            "name": "Grabesglanz",
+            "description": {
+                "general": "Ein Hauch Finsternis und Verzweiflung."
+            }
+        },
+        "doomcaller": {
+            "name": "Unheilrufer",
+            "description": {
+                "general": "\"Fliehe vor meinem Zorn, Bauer!\""
+            }
+        },
+        "boundFate": {
+            "name": "Gebundenes Schicksal",
+            "description": {
+                "general": "Eine schöne Bereicherung für Euer Deck."
+            }
+        },
+        "blackenedOaths": {
+            "name": "Geschwärzte Eide",
+            "description": {
+                "general": "Federn eines magischen Raben. Die Krempe weint Salz."
+            }
+        },
+        "grimReflection": {
+            "name": "Grimmige Reflektion",
+            "description": {
+                "general": "Die Augen dahinter sind längst verbrannt."
+            }
+        },
+        "soulsight": {
+            "name": "Seelensicht",
+            "description": {
+                "general": "Lebhafte Visionen dieser Welt und der nächsten."
+            }
+        },
+        "gallowsGrace": {
+            "name": "Gnade des Galgens",
+            "description": {
+                "general": "Zu vornehm für das Grab, zu verflucht für die Lebenden."
+            }
+        },
+        "lacedLament": {
+            "name": "Geschürte Klage",
+            "description": {
+                "general": "Flattert, wenn eine nahe Seele vorbeizieht."
+            }
+        },
+        "gravediggersGrip": {
+            "name": "Im Griff des Totengräbers",
+            "description": {
+                "general": "Eisen und Asche, verbunden wie Trauer."
+            }
+        },
+        "littleMercies": {
+            "name": "Kleine Gnaden",
+            "description": {
+                "general": "Dreifach geschnallt, für jedes gebrochene Versprechen."
+            }
+        },
+        "deadkinsPride": {
+            "name": "Stolz der nahen Toten",
+            "description": {
+                "general": "Dunkler Stoff, genäht mit Trauerfaden."
+            }
+        },
+        "echoNoir": {
+            "name": "Echo Noir",
+            "description": {
+                "general": "Stille Schritte an vergessenen Ufern."
             }
         }
     }
