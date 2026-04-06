@@ -380,5 +380,17 @@
         "id": "megafortWolvenhol",
         "type": "militaryBase",
         "faction": "dutchMerchantCompany"
+    },
+    "legendOfTheNian": {
+        "id": "legendOfTheNian",
+        "type": "eliteWarship",
+        "faction": "pirates",
+        "event": "enterTheNian"
+    },
+    "crazedNian": {
+        "id": "crazedNian",
+        "type": "eliteWarship",
+        "faction": "pirates",
+        "event": "legendOfTheNian"
     }
 }

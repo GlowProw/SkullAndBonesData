@@ -1658,5 +1658,25 @@
     "badAndBaroque": {
         "id": "badAndBaroque",
         "type": "ship"
+    },
+    "greaterNian": {
+        "id": "greaterNian",
+        "type": "ship"
+    },
+    "crocodillo": {
+        "id": "crocodillo",
+        "type": "ship"
+    },
+    "chimpCrazy": {
+        "id": "chimpCrazy",
+        "type": "ship"
+    },
+    "deathsGlow": {
+        "id": "deathsGlow",
+        "type": "ship"
+    },
+    "deathlyWishes": {
+        "id": "deathlyWishes",
+        "type": "player"
     }
 }
