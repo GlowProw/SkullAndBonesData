@@ -1670,5 +1670,9 @@
     "chimpCrazy": {
         "id": "chimpCrazy",
         "type": "ship"
+    },
+    "deathsGlow": {
+        "id": "deathsGlow",
+        "type": "ship"
     }
 }

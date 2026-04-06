@@ -21671,6 +21671,48 @@
             "description": {
                 "general": "Teeth bared, barrels lit"
             }
+        },
+        "theReapersCall": {
+            "name": "The Reaper's Call",
+            "description": {
+                "general": "Let death's pall spread far and wide"
+            }
+        },
+        "scythesHonour": {
+            "name": "Scythe's Honour",
+            "description": {
+                "general": "Sharp twists and sharper blades"
+            }
+        },
+        "darkestWeave": {
+            "name": "Darkest Weave",
+            "description": {
+                "general": "A grim set of colors, indeed"
+            }
+        },
+        "helenaFromHell": {
+            "name": "Helena from Hell",
+            "description": {
+                "general": "Death never looked so lovely"
+            }
+        },
+        "graveyardGloss": {
+            "name": "Graveyard Gloss",
+            "description": {
+                "general": "Finished with gloom and despair"
+            }
+        },
+        "doomcaller": {
+            "name": "Doomcaller",
+            "description": {
+                "general": "\"Flee from my wrath, peasant\""
+            }
+        },
+        "boundFate": {
+            "name": "Bound Fate",
+            "description": {
+                "general": "A real mood lightener for your deck"
+            }
         }
     }
 }

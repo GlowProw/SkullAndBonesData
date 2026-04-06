@@ -31468,5 +31468,65 @@
         "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2026-03-27",
         "lastUpdated": "2026-03-27"
+    },
+    "theReapersCall": {
+        "id": "theReapersCall",
+        "type": "sailsEmblem",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "scythesHonour": {
+        "id": "scythesHonour",
+        "type": "sailsPattern",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "darkestWeave": {
+        "id": "darkestWeave",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "helenaFromHell": {
+        "id": "helenaFromHell",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "graveyardGloss": {
+        "id": "graveyardGloss",
+        "type": "hull",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "doomcaller": {
+        "id": "doomcaller",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
+    },
+    "boundFate": {
+        "id": "boundFate",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "deathsGlow",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     }
 }
