@@ -15886,7 +15886,7 @@
         "rarity": "epic",
         "season": "eyeOfTheBeast",
         "event": "legendOfTheNian",
-        "obtainable": "idolOfTheBeastStatue",
+        "obtainable": ["idolOfTheBeastStatue","crazedNianStrongbox"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15901,7 +15901,7 @@
             "toxic3"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-03-10"
+        "lastUpdated": "2026-03-24"
     },
     "stormtongue": {
         "id": "stormtongue",
